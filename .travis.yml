@@ -13,4 +13,4 @@ rvm:
 
 addons:
   code_climate:
-      repo_token: 4534546be96ea1e33e7962309ed6a1ca9963add3e70113c6642340e56fc69d17
+      repo_token: de1203c71b7c4b0b60dd638d05f8e3f0c9209a1e33113e2d9cf4a52a46bbbc31
