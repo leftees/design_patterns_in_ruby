@@ -4,6 +4,7 @@ gem 'rubocop', require: false
 gem 'rspec'
 gem 'rake'
 
-gem 'codeclimate-test-reporter', group: :test, require: nil
-
+group :test do
+  gem 'codeclimate-test-reporter', '~> 0.4.8'
+  gem 'simplecov', '~> 0.9.2'
 end
